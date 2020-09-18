@@ -1,6 +1,10 @@
+### MinWoo Gong
+***
 ### Interest
 
 + Data Analysis and Visualization 
++ Stock analysis
+***
 
 <!--
 **joy3968/joy3968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
