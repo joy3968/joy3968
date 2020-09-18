@@ -3,7 +3,12 @@
 <!--
 **joy3968/joy3968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Interest
+
++ Data Analysis and Visualization 
+
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
