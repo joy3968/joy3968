@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+
+##### Interest
+
++ Data Analysis and Visualization 
+
 <!--
 **joy3968/joy3968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Interest
-
-+ Data Analysis and Visualization 
 
 Here are some ideas to get you started:
 
