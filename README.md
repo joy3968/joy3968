@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-##### Interest
+### Interest
 
 + Data Analysis and Visualization 
 
