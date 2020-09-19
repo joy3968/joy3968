@@ -4,6 +4,8 @@
 
 + Data Analysis and Visualization 
 + Stock analysis
++ Advanced Data Analytics Semi-Professional
++ SQL Developer
 ***
 
 <!--
