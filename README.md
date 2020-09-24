@@ -6,6 +6,7 @@
 + Stock analysis
 + Advanced Data Analytics Semi-Professional
 + SQL Developer
++ Django
 ***
 
 <!--
