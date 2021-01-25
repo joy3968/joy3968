@@ -7,6 +7,7 @@
 + Advanced Data Analytics Semi-Professional
 + SQL Developer
 + Django Project
++ Laravel Project
 ***
 
 <!--
