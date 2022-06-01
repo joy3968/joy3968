@@ -8,6 +8,7 @@
 + SQL Developer
 + Django Project
 + Laravel Project
++ React
 ***
 
 <!--
