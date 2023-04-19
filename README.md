@@ -4,7 +4,7 @@
 
 🌱 Blog : https://develrunner.tistory.com
 ***
-### Interest
+### ⚡ Interest
 
 + Data Analysis and Visualization 
 + Stock analysis
