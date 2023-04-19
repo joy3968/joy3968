@@ -1,5 +1,5 @@
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=ff2d20&logoColor=000000"/></a>
 ### MinWoo Gong
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=ff2d20&logoColor=000000"/></a>
 ***
 ### Interest
 
