@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=#FF2D20&logoColor=000000"/>
 	<img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=#FF2D20&logoColor=000000"/>
 	<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=#FF2D20&logoColor=000000"/>
@@ -18,8 +18,11 @@
 + Django Project
 + Laravel Project
 + React, Vue
-+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy3968&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=joy3968&show_icons=true">
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy3968&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=joy3968&show_icons=true">
+</div>
 
 <!--
 **joy3968/joy3968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
