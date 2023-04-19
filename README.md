@@ -1,6 +1,8 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=#FF2D20&logoColor=000000"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=#FF2D20&logoColor=000000"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat&logo=#FF2D20&logoColor=000000"/></a>
+
+Blog : https://develrunner.tistory.com/
 ### MinWoo Gong
 ***
 ### Interest
