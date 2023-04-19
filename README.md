@@ -2,7 +2,7 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=#FF2D20&logoColor=000000"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat&logo=#FF2D20&logoColor=000000"/></a>
 
-Blog : https://develrunner.tistory.com
+🌱 Blog : https://develrunner.tistory.com
 ***
 ### Interest
 
@@ -14,7 +14,7 @@ Blog : https://develrunner.tistory.com
 + Laravel Project
 + React, Vue
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy3968&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy3968&show_icons=true&theme=swift)
 
 <!--
 **joy3968/joy3968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
