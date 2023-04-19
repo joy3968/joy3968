@@ -1,4 +1,5 @@
 ### MinWoo Gong
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=ff2d20&logoColor=000000"/></a>
 ***
 ### Interest
 
@@ -10,6 +11,8 @@
 + Laravel Project
 + React, Vue
 ***
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy3968&show_icons=true&theme=radical)
 
 <!--
 **joy3968/joy3968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
