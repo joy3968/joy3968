@@ -17,8 +17,9 @@
 + Stock analysis
 + Advanced Data Analytics Semi-Professional
 + SQL Developer
-+ Django Project
 + Laravel Project
++ Django Project
++ Spring Prject
 + React, Vue
 
 <div align="left">
@@ -32,8 +33,6 @@
 
 
 Here are some ideas to get you started:
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
