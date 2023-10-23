@@ -19,7 +19,7 @@
 + SQL Developer
 + Laravel Project
 + Django Project
-+ Spring Prject
++ Spring Project
 + React, Vue
 
 <div align="left">
